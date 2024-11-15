@@ -17,19 +17,19 @@ The USA sales dashboard is an interactive tool that helps in visualizing KPIs, t
 
 #### KPIs 
 1. **Total Sales -** This KPI represents the total revenue generated from all sales transactions.
-   Formula : Total Sales = SUM(Sales)
+• Formula : Total Sales = SUM(Sales)
    
 2. **Profit Margin -** This measures the profitability by comparing profit against sales, indicating how efficiently the business generates profit.
-   Formula: Profit Margin = SUM(Profit) / SUM(Sales)
+• Formula: Profit Margin = SUM(Profit) / SUM(Sales)
    
 3. **Total Orders -** This KPI counts the number of individual orders, providing an overview of transaction volume.
-   Formula: Total Orders = COUNT(Order ID)
+• Formula: Total Orders = COUNT(Order ID)
    
 4. **Region with Highest Sales -** This identifies the region that generated the most revenue, highlighting geographical strengths in sales performance.
-   Formula: Region with Highest Sales = WINDOW_MAX(SUM(Sales)) = SUM(Sales)
+• Formula: Region with Highest Sales = WINDOW_MAX(SUM(Sales)) = SUM(Sales)
    
 5. **Customer Return Rate -** This KPI measures the proportion of orders that were returned, giving insights into product or service satisfaction.
-   Formula: Customer Return Rate = COUNT(Order ID (Returns))/COUNT(Order ID)
+• Formula: Customer Return Rate = COUNT(Order ID (Returns))/COUNT(Order ID)
 
 #### Analysis
 The main objective of this report is to nalyze sales performance and profitability trends across the United States.
