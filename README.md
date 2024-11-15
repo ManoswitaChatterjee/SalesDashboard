@@ -63,17 +63,17 @@ This table shows sales performance and month-over_month sales growth across each
 ##### Sales over Time
 
 This line chart illustrates sales trends over time on a monthly basis. It tracks monthly  sales fluctuations within the United States. It reveals patterns in sales growth, highlighting peaks and troughs across different periods, which helps in understanding seasonal demand and overall sales trajectory. 
-• This data shows that there is a surge in sales in the months of November and December for every year from 2014 to 2017.
-• The 'Order Year' filter allows you to check sales details for every year separately to help understand the sales growth over time. 
+1. This data shows that there is a surge in sales in the months of November and December for every year from 2014 to 2017.
+2. The 'Order Year' filter allows you to check sales details for every year separately to help understand the sales growth over time. 
 
 ![Screenshot_8](https://github.com/user-attachments/assets/ad304d72-1c47-4377-9c9a-78d051147b27)
 
 ##### Top / Bottom States by sales
 
 These two tables display the top 3 and bottom 3 states in terms of sales performance, providing insights into regional strengths and weaknesses.
-• Top 3 States Table: Highlights the states generating the highest sales, showcasing areas with the strongest performance.
-• Bottom 3 States Table: Identifies the states with the lowest sales, helping to pinpoint regions requiring improvement or further analysis.
-• From our data, the best performing state of all time in terms of sales is California and the worst performing state is North Dakota.
+1. Top 3 States Table: Highlights the states generating the highest sales, showcasing areas with the strongest performance.
+2. Bottom 3 States Table: Identifies the states with the lowest sales, helping to pinpoint regions requiring improvement or further analysis.
+3. From our data, the best performing state of all time in terms of sales is California and the worst performing state is North Dakota.
 
 ![Screenshot_9](https://github.com/user-attachments/assets/6875351e-16ff-4c2b-bf69-a21a4407c7cb)
 
@@ -94,10 +94,10 @@ The USA Sales performance dashboard provided a comprehensive analysis of regiona
 
 ##### Recommendations and Key Takeaways
 
-• Top Performing Regions: Regions like the West and Central consistently demonstrated a better sales performance over the years, suggesting strategies in these regions could be replicated elsewhere.
-• Opportunities for Improvement: States with lower sales, identified through the bottom 3 analysis, present opportunities for targeted marketing and sales initiatives to drive growth.
-• Seasonal Trends: Monthly sales trends revealed predictable peaks and troughs. This inturn allows for better capital management and inventory management. 
-• Agent Contributions: Insights into sales manager (Agent Name) performance help pinpoint high-performing managers and identify areas where additional support may be needed.
+1. Top Performing Regions: Regions like the West and Central consistently demonstrated a better sales performance over the years, suggesting strategies in these regions could be replicated elsewhere.
+2. Opportunities for Improvement: States with lower sales, identified through the bottom 3 analysis, present opportunities for targeted marketing and sales initiatives to drive growth.
+3. Seasonal Trends: Monthly sales trends revealed predictable peaks and troughs. This inturn allows for better capital management and inventory management.
+4. Agent Contributions: Insights into sales manager (Agent Name) performance help pinpoint high-performing managers and identify areas where additional support may be needed.
 
 This project helps to visualize data and uncover insights to help make more informed decisions for sales strategy and performance optimization for business.
 
