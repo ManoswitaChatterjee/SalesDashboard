@@ -33,7 +33,7 @@ The USA sales dashboard is an interactive tool that helps in visualizing KPIs, t
 
 #### Analysis
 The main objective of this report is to nalyze sales performance and profitability trends across the United States.
-I specifically choose the above KPIs to help get an overall idea about the ales growth, regional profitability, and customer behavior from the data. This in turn allows to understand the current standing of the sales and which area needs more focus to help with business growth.
+I specifically choose the above KPIs to help get an overall idea about the ales growth, regional profitability, and customer behaviour from the data. This in turn allows to understand the current standing of the sales and which area needs more focus to help with business growth.
 
 #### Overview 
 
@@ -48,7 +48,7 @@ I specifically choose the above KPIs to help get an overall idea about the ales 
 ##### Insight:
 Focus should be on increasing the Profit Margin and lowering the return rate to help with overall business flow.
 
-##### Sales vizualization on United States Map with Tooltip
+##### Sales visualization on United States Map with Tooltip
 
 The US map shows distribution of sales across states over the years with a tooltip to easily get details for each state separately.
 
@@ -56,4 +56,49 @@ The US map shows distribution of sales across states over the years with a toolt
 
 ##### Sales monthly growth chart - state-wise 
 
-This table shows sales and month-over_month sales growth for each state. 
+This table shows sales performance and month-over_month sales growth across each state. It highlights seasonal fluctuations and regional variations, allowing for a detailed comparison of sales growth over time in different states.
+
+![Screenshot_7](https://github.com/user-attachments/assets/35f3b0d1-0bc9-49d1-8bc5-73f740a6adf9)
+
+##### Sales over Time
+
+This line chart illustrates sales trends over time on a monthly basis. It tracks monthly  sales fluctuations within the United States. It reveals patterns in sales growth, highlighting peaks and troughs across different periods, which helps in understanding seasonal demand and overall sales trajectory. 
+• This data shows that there is a surge in sales in the months of November and December for every year from 2014 to 2017.
+• The 'Order Year' filter allows you to check sales details for every year separately to help understand the sales growth over time. 
+
+![Screenshot_8](https://github.com/user-attachments/assets/ad304d72-1c47-4377-9c9a-78d051147b27)
+
+##### Top / Bottom States by sales
+
+These two tables display the top 3 and bottom 3 states in terms of sales performance, providing insights into regional strengths and weaknesses.
+• Top 3 States Table: Highlights the states generating the highest sales, showcasing areas with the strongest performance.
+• Bottom 3 States Table: Identifies the states with the lowest sales, helping to pinpoint regions requiring improvement or further analysis.
+• From our data, the best performing state of all time in terms of sales is California and the worst performing state is North Dakota.
+
+![Screenshot_9](https://github.com/user-attachments/assets/6875351e-16ff-4c2b-bf69-a21a4407c7cb)
+
+#### Final Dashboard 
+
+![Screenshot_10](https://github.com/user-attachments/assets/b14082a5-52ec-4fbd-83ad-b8207546dee5)
+
+#### Filters 
+1. **Order Year -** To filter sales data by specific years, enabling year-over-year comparisons and analysis of long-term trends.
+2. **Order Month -** To filter data by month, which helps in examining seasonal sales patterns and monthly performance fluctuations.
+3. **Agent Name -** This filters data by sales manager, allowing users to view performance metrics for each manager within their designated region.
+4. **Region -** To filter data by major geographical regions, such as East, West, South, and Central, facilitating regional performance analysis.
+5. **State -**  This filters data by individual U.S. states, providing a closer look at sales performance at the state level.
+
+#### Conclusion 
+
+The USA Sales performance dashboard provided a comprehensive analysis of regional and state-level sales trends using the Sample Superstore dataset. The analysis highlighted key performance metrics and revealed valuable insights into sales growth, profitability, and customer behaviour across the United States.
+
+##### Recommendations and Key Takeaways
+
+• Top Performing Regions: Regions like the West and Central consistently demonstrated a better sales performance over the years, suggesting strategies in these regions could be replicated elsewhere.
+• Opportunities for Improvement: States with lower sales, identified through the bottom 3 analysis, present opportunities for targeted marketing and sales initiatives to drive growth.
+• Seasonal Trends: Monthly sales trends revealed predictable peaks and troughs. This inturn allows for better capital management and inventory management. 
+• Agent Contributions: Insights into sales manager (Agent Name) performance help pinpoint high-performing managers and identify areas where additional support may be needed.
+
+This project helps to visualize data and uncover insights to help make more informed decisions for sales strategy and performance optimization for business.
+
+Your feedback and thoughts on this analysis are greatly appreciated!
