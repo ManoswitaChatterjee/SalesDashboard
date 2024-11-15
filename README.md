@@ -45,22 +45,22 @@ I specifically choose the above KPIs to help get an overall idea about the ales 
 
 ![Screenshot_5](https://github.com/user-attachments/assets/ed12f5b0-b574-4910-bfa6-7297ff640528)
 
-##### Insight:
+#### Insight:
 Focus should be on increasing the Profit Margin and lowering the return rate to help with overall business flow.
 
-##### Sales visualization on United States Map with Tooltip
+#### Sales visualization on United States Map with Tooltip
 
 The US map shows distribution of sales across states over the years with a tooltip to easily get details for each state separately.
 
 ![Screenshot_6](https://github.com/user-attachments/assets/1dae1d04-e6bd-41eb-8b55-1afc049e334b)
 
-##### Sales monthly growth chart - state-wise 
+#### Sales monthly growth chart - state-wise 
 
 This table shows sales performance and month-over_month sales growth across each state. It highlights seasonal fluctuations and regional variations, allowing for a detailed comparison of sales growth over time in different states.
 
 ![Screenshot_7](https://github.com/user-attachments/assets/35f3b0d1-0bc9-49d1-8bc5-73f740a6adf9)
 
-##### Sales over Time
+#### Sales over Time
 
 This line chart illustrates sales trends over time on a monthly basis. It tracks monthly  sales fluctuations within the United States. It reveals patterns in sales growth, highlighting peaks and troughs across different periods, which helps in understanding seasonal demand and overall sales trajectory. 
 1. This data shows that there is a surge in sales in the months of November and December for every year from 2014 to 2017.
@@ -68,7 +68,7 @@ This line chart illustrates sales trends over time on a monthly basis. It tracks
 
 ![Screenshot_8](https://github.com/user-attachments/assets/ad304d72-1c47-4377-9c9a-78d051147b27)
 
-##### Top / Bottom States by sales
+#### Top / Bottom States by sales
 
 These two tables display the top 3 and bottom 3 states in terms of sales performance, providing insights into regional strengths and weaknesses.
 1. Top 3 States Table: Highlights the states generating the highest sales, showcasing areas with the strongest performance.
@@ -92,7 +92,7 @@ These two tables display the top 3 and bottom 3 states in terms of sales perform
 
 The USA Sales performance dashboard provided a comprehensive analysis of regional and state-level sales trends using the Sample Superstore dataset. The analysis highlighted key performance metrics and revealed valuable insights into sales growth, profitability, and customer behaviour across the United States.
 
-##### Recommendations and Key Takeaways
+#### Recommendations and Key Takeaways
 
 1. Top Performing Regions: Regions like the West and Central consistently demonstrated a better sales performance over the years, suggesting strategies in these regions could be replicated elsewhere.
 2. Opportunities for Improvement: States with lower sales, identified through the bottom 3 analysis, present opportunities for targeted marketing and sales initiatives to drive growth.
