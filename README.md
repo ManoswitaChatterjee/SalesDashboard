@@ -45,5 +45,15 @@ I specifically choose the above KPIs to help get an overall idea about the ales 
 
 ![Screenshot_5](https://github.com/user-attachments/assets/ed12f5b0-b574-4910-bfa6-7297ff640528)
 
+##### Insight:
+Focus should be on increasing the Profit Margin and lowering the return rate to help with overall business flow.
 
-####    
+##### Sales vizualization on United States Map with Tooltip
+
+The US map shows distribution of sales across states over the years with a tooltip to easily get details for each state separately.
+
+![Screenshot_6](https://github.com/user-attachments/assets/1dae1d04-e6bd-41eb-8b55-1afc049e334b)
+
+##### Sales monthly growth chart - state-wise 
+
+This table shows sales and month-over_month sales growth for each state. 
